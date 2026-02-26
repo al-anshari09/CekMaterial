@@ -3,22 +3,26 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>SAP Material Master (Lite)</title>
-  <link rel="stylesheet" href="static/styles.css" />
+  <title>SAP Material Master — Lite</title>
+  <tatic/styles.css
 </head>
 <body>
-  <header>
+  <!-- Header dengan tombol ke halaman tambah material -->
+  <header class="app-header">
     <h1>SAP Material Master — Lite</h1>
-    <input id="search" type="search" placeholder="Cari material, teks, atau nomor pabrik…" />
+    add.html+ Tambah Material</a>
   </header>
 
   <main>
+    <input id="search" class="search" type="search" placeholder="Cari material, teks, atau nomor pabrik…" />
     <div id="results" class="results"></div>
   </main>
 
+  <!-- Modal detail -->
   <div id="modal" class="modal hidden" role="dialog" aria-modal="true">
     <div class="modal-card">
       <button id="closeModal" class="close">Tutup</button>
+      <!-- Tampilkan detail (saat ini JSON rapi). Jika nanti mau versi tabel, tinggal ubah di script.js -->
       <pre id="detail"></pre>
     </div>
   </div>
@@ -27,6 +31,6 @@
     <small>© 2026 — Demo statis. Data contoh non-privasi.</small>
   </footer>
 
-  <script src="static/script.js"></script>
-</body>
+  <script src="static/script</body>
 </html>
+``
