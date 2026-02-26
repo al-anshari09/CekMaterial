@@ -80,4 +80,3 @@ document.getElementById('modal').addEventListener('click', (e) => {
 });
 
 load();
-``
