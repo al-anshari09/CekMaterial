@@ -1,0 +1,38 @@
+[
+  {
+    "material": "15551163",
+    "short_text": "ELECTRODE; WELDING; PRIMACORE LW-71; 1.6MM",
+    "plant": "VMB3",
+    "storage_location": "VMB3",
+    "material_type": "ELEC",
+    "po_long_text": "ELECTRODE; WELDING; TYPE: PRIMACORE LW-71; FORM: SPOOL; WIRE DIAMETER: 1.6MM; \nCORE/FLUX: PRIMACORE-LS 233; AWS A5.20; ASME SFA-5.20; TRADE/TYPE: CJP; \nPACKAGE: 20KG; APPLICATION: SEMI AUTOMATIC / FCAW-G; SHIELDING GAS: CO2; \nUSE ON WELDING: BUCKET, DUMP BODY, etc.",
+    "manufacturer": "CROWFLY E61-B1",
+    "mfr_part_number": "COPLMY71 E61-B1",
+    "uom": "KG",
+    "avg_unit_price": 81.61,
+    "purchasing_group": "FAN.Utami",
+    "stock_type": "CRITICALITY C",
+    "stock_class": "NON STOCKABLE",
+    "qualifier_code1": "Vendor Held Stock",
+    "qualifier_code2": "",
+    "last_update": "2026-02-21T09:04:24+08:00"
+  },
+  {
+    "material": "15551020",
+    "short_text": "ELECTRODE; WELDING; 3.2MM; E6013",
+    "plant": "VMB3",
+    "storage_location": "W103",
+    "material_type": "ELEC",
+    "po_long_text": "General purpose rutile electrode for mild steel.",
+    "manufacturer": "WeldMaster",
+    "mfr_part_number": "WM-E6013-3.2",
+    "uom": "KG",
+    "avg_unit_price": 32.15,
+    "purchasing_group": "Purch.Grp A",
+    "stock_type": "CRITICALITY B",
+    "stock_class": "STOCKABLE",
+    "qualifier_code1": "",
+    "qualifier_code2": "",
+    "last_update": "2026-02-20T17:02:00+08:00"
+  }
+]

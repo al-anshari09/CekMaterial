@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SAP Material Master (Lite)</title>
+  <link rel="stylesheet" href="static/styles.css" />
+</head>
+<body>
+  <header>
+    <h1>SAP Material Master — Lite</h1>
+    <input id="search" type="search" placeholder="Cari material, teks, atau nomor pabrik…" />
+  </header>
+
+  <main>
+    <div id="results" class="results"></div>
+  </main>
+
+  <div id="modal" class="modal hidden" role="dialog" aria-modal="true">
+    <div class="modal-card">
+      <button id="closeModal" class="close">Tutup</button>
+      <pre id="detail"></pre>
+    </div>
+  </div>
+
+  <footer>
+    <small>© 2026 — Demo statis. Data contoh non-privasi.</small>
+  </footer>
+
+  <script src="static/script.js"></script>
+</body>
+</html>
